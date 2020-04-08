@@ -10,6 +10,7 @@ row_index = 0
         p src[row_index][element_index]
       end
       element_index += 1
+    end
   end
   row_index += 1
 end
