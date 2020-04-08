@@ -11,6 +11,6 @@ row_index = 0
       end
       element_index += 1
     end
-  end
   row_index += 1
+  end
 end
